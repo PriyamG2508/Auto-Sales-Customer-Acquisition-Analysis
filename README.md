@@ -5,14 +5,14 @@
 This project analyzes customer acquisition and revenue trends using a Kaggle automotive sales dataset. Using SQL queries, Python analysis, and interactive visualizations, conducted a analysis that reveals the complete story behind declining customer acquisition metrics. This project demonstrates how deep data investigation can uncover hidden business success where surface-level metrics suggest failure.
 
 ## Table of Contents 
-* [Problem Statement](#Problem_Statement)
-* [Dataset]()
-* [Tech Stack]()
-* [Project Structure]()
-* [How to run]()
-* [Key Findings]()
-* [License]()
-* [Conclusion]()
+* [Problem Statement](#Problem-Statement)
+* [Dataset](#Dataset)
+* [Tech Stack](#Tech-Stack)
+* [Project Structure](#Project-Structure)
+* [How to run](#How-to-run)
+* [Key Findings](#Key-Findings)
+* [License](#License)
+* [Conclusion](#Conclusion)
 
 ## Problem Statement 
 
