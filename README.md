@@ -77,8 +77,6 @@ Between 2018 and 2019, A hypothetical multinational automobile company experienc
    |   |____Yearly order trends.html
    |   |____customer_acquisition_dashboard.pbix
    |
-   |__License
-   |
    |__Readme.md
 
 ```
